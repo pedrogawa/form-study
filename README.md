@@ -8,4 +8,4 @@ Project was done for studying purposes, using Yup for validating schema and reac
 
 ![Form filled](https://i.imgur.com/OMmLftC.png)
 
-![Form successful message)(https://i.imgur.com/htKrMAX.png)
+![Form successful message](https://i.imgur.com/htKrMAX.png)
