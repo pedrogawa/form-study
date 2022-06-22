@@ -1,0 +1,28 @@
+.container {
+  margin-top: 24px;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 12px;
+
+  border-radius: 12px;
+
+  border: 2px solid rgba(183, 171, 177, 0.46);
+
+  padding: 12px;
+}
+
+.input {
+  outline: none;
+  border: none;
+
+  color: rebeccapurple;
+
+  font-size: 18px;
+
+  margin-left: 12px;
+}
